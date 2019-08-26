@@ -7,6 +7,7 @@ public class Mama1
 	{
 		int i;
 		int j;
+		int k;
 
 	}
 
